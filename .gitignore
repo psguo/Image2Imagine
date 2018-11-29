@@ -1,1 +1,2 @@
-./CUB_preprocess/Data
+CUB_preprocess/Data/
+CUB_preprocess/.idea/
